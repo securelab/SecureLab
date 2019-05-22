@@ -22,8 +22,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 
-![Logo image](/img/logoazul.png =250x)
-
+![Logo image](/img/logoazul.png =250x250)
+![Logo image](/img/logoazul.png)
+<img src="/img/logoazul.png" width="200">
 
 
 
