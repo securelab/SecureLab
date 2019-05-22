@@ -1,3 +1,4 @@
+<img src="/img/logoazul.png" width="200">
 ## Welcome to Secure Lab
 
 SecureLab es una app que ofrece consejos y recetas de ciberseguridad a estudiantes de informática, desarrolladores de software y administradores de sistemas permitiéndoles incrementar la seguridad de sus aplicaciones, redes y ordenadores. 
@@ -22,9 +23,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 
-![Logo image](/img/logoazul.png =250x250)
-![Logo image](/img/logoazul.png)
-<img src="/img/logoazul.png" width="200">
+
 
 
 
