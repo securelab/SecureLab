@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/img/logoazul.png" width="200">
+<div style="text-align:center"><img src="/img/logoazul.png" width="200"></div>
 ## Welcome to Secure Lab
 
 SecureLab es una app que ofrece consejos y recetas de ciberseguridad a estudiantes de informática, desarrolladores de software y administradores de sistemas permitiéndoles incrementar la seguridad de sus aplicaciones, redes y ordenadores. 
