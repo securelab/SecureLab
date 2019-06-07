@@ -6916,6 +6916,7 @@ a.close.disabled {
 }
 
 .bg-primary {
+  background-image: url(../img/Background.png);
   background-color: #1abc9c !important;
 }
 
